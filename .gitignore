@@ -1,0 +1,4 @@
+./burnboard/prj/Listings/
+./burnboard/prj/Objects/*
+*.back
+*.dep
